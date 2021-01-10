@@ -1,6 +1,8 @@
 import Navbar from './Navbar';
 import Home from './Home';
 
+//npx json-server --watch data/db.json --port 8000
+
 function App() {
   return (
     <div className="App">
